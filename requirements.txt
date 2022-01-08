@@ -1,0 +1,10 @@
+dgl==0.6.1
+dgl_cu110==0.7.2
+gensim==3.8.3
+networkx==2.1
+nltk==3.3
+numpy==1.19.4
+pandas==1.1.4
+scikit_learn==1.0.2
+torch==1.7.0+cu110
+tqdm==4.62.3
